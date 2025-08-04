@@ -5,26 +5,10 @@ Welcome to **Lyrico**, a modern, sleek Spotify clone that brings your music stre
 ---
 
 ## 🚀 Live Demo
-[🔗 Click here to try Lyrico live](https://your-live-link.com)  
+[🔗 Click here to try Lyrico live](add soon)  
 *(Replace with your deployment link)*
 
 ---
-
-## 🖥️ Tech Stack
-
-**Frontend:**
-- React.js
-- Tailwind CSS
-- React Router / Next.js *(optional)*
-- Axios
-
-**Backend:**
-- Node.js
-- Express.js
-- MongoDB *(via Mongoose)*
-
-**Authentication:**
-- JWT or Firebase Auth *(choose based on what you used)*
 
 **Music Playback:**
 - HTML5 Audio / Web Audio API
